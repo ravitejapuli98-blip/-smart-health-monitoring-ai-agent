@@ -20,7 +20,6 @@ Aws_hackthon/
 ├── create_deployment_package.py       # Package creation script
 ├── demo_script.py                     # Demo and testing script
 ├── architecture_diagram.py            # Architecture diagram generator
-├── DEMO_VIDEO_SCRIPT.md               # Demo video script
 ├── SUBMISSION_CHECKLIST.md            # Hackathon compliance checklist
 ├── PROJECT_SUMMARY.md                 # This file
 ├── .gitignore                         # Git ignore file
@@ -74,14 +73,13 @@ Aws_hackthon/
 - [x] **Repository**: Complete source code with proper structure
 - [x] **Architecture Diagram**: Visual system design in README.md
 - [x] **Text Description**: Comprehensive project documentation
-- [x] **Demo Video Script**: Ready for recording
+- [x] **Demo Script**: Available for testing
 - [x] **Deployment Package**: `health_monitoring_agent_deployment.zip`
 - [x] **Deployment Instructions**: Step-by-step setup guide
 
 ### Next Steps
-1. **Enable Bedrock Access**: Request model access in AWS Console
-2. **Record Demo Video**: Use the provided script
-3. **Submit to Hackathon**: All requirements met and ready for submission
+1. **Enable Bedrock Access**: Request model access in AWS Console (optional)
+2. **Submit to Hackathon**: All requirements met and ready for submission
 
 ### Technical Excellence
 - **Serverless Architecture**: Scalable and cost-effective

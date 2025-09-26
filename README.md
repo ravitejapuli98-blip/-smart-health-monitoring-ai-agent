@@ -40,7 +40,10 @@ The agent uses:
 
 ## Demo
 
-[Demo Video Link - To be added]
+Run the demo script to see the agent in action:
+```bash
+python demo_script.py
+```
 
 ## Architecture Diagram
 

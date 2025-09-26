@@ -42,8 +42,8 @@
   - Technical implementation details
   - Hackathon compliance documentation
 
-- [x] **~3-minute Demo Video**: 
-  - Demo video script created (DEMO_VIDEO_SCRIPT.md)
+- [x] **Live Demo Capability**: 
+  - Demo script available (demo_script.py)
   - Shows autonomous operation
   - Demonstrates medical reasoning capabilities
   - Highlights external integrations
@@ -88,7 +88,6 @@ Aws_hackthon/
 ├── deploy.py                         # Deployment script
 ├── demo_script.py                    # Demo and testing script
 ├── architecture_diagram.py           # Architecture diagram generator
-├── DEMO_VIDEO_SCRIPT.md              # Demo video script
 ├── SUBMISSION_CHECKLIST.md           # This file
 └── src/
     └── agent/
